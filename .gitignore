@@ -1,0 +1,20 @@
+# Build folders
+/build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.sln
+
+# Binaries
+*.exe
+*.dll
+*.obj
+*.pdb
+
+# Protobuf generated
+*.pb.cc
+*.pb.h
